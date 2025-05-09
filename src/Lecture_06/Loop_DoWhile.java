@@ -5,6 +5,9 @@ import java.util.Scanner;
 public class Loop_DoWhile {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
+
+        // will run once.
+
         /*
             Syntax for do_while loop :
             do {
